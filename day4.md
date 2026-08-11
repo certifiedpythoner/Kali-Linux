@@ -1,0 +1,5 @@
+1- netdiscover(acrive/passive ARP reconnaissance tool)
+2- rm(remove files or directories)
+3- net(Tool for administration of Samba and remote CIFS servers)
+4- set(change a run-time parameter)
+5- ettercap(multipurpose sniffer/content filter for man in the middle attacks)
